@@ -1,5 +1,5 @@
 ---
-# README — Atlas Deploy Control Plane
+# README 
 
 ## Overview
 
